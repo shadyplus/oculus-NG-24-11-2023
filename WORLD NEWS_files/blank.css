@@ -157,7 +157,14 @@
 		margin: 2px;
 	}
 }
-
+@media screen and (min-width: 459px) {
+	
+	#before{
+		width: 100px;
+	}
+	#after{
+		width: 100px;
+	} }
 @media screen and (max-width: 459px) {
 	#order_form input {
 		width: 80%;
